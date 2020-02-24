@@ -1,2 +1,3 @@
 # hello-world
-Sam's github hello-world. Just another repostory :)
+My new adventure in refreshing my technical skills starts today 
+
